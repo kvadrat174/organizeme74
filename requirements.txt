@@ -1,0 +1,8 @@
+google-api-python-client
+httplib2
+Requests
+pyTelegramBotAPI
+gspread
+oauth2client
+datetime
+os
