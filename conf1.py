@@ -1,4 +1,4 @@
-TOKEN = '1034337791:AAFf5a_Gl2jwU_LD_vSaerNQjtqZHzwunYI'
+
 bossid = int(715698611)
 name_boss = "bossid"
 "testlist"
