@@ -1,2 +1,2 @@
-web: python organizer.py
-worker: python gsmod.py
+worker: python organizer.py
+
