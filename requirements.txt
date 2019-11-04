@@ -1,7 +1,7 @@
-google-api-python-client
+pyTelegramBotAPI
 httplib2
 Requests
-pyTelegramBotAPI
 gspread
 oauth2client
 datetime
+apiclient.discovery
