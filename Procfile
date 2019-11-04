@@ -1,2 +1,2 @@
-worker: python '//organizer.py'
+worker: python organaizer.py
 
